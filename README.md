@@ -27,6 +27,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![bootstrab](https://img.shields.io/twitter/url?color=white&label=Bootstrab&logo=bootstrap&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.3%2Fassets%2Fbrand%2Fbootstrap-logo-shadow.png)
 <br>
 
 - **Cloud Hosting**:
