@@ -11,8 +11,8 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development my Self
-- Personal website [link](https://www.georgeakram.ga)
+- Currently learning Web Development myself
+- Personal website [link](https://grog.eu.org)
 
 <br><br>
 
